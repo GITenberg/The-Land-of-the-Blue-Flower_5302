@@ -1,5 +1,8 @@
 _repo: The-Land-of-the-Blue-Flower_5302
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
 description: Hoping to dispel dark thoughts and evil from his corrupt kingdom, young
   King Amor proclaims an unconventional law and watches for the expected transformation.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5302#The-Land-of-the-Blue-Flower
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
